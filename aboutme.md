@@ -2,6 +2,7 @@
 title: O meni
 icon: fa-user
 layout: page
+order: 2
 ---
 
 <a href="#" class="image featured"><img src="assets/images/banner.png" alt="" /></a>
