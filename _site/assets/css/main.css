@@ -3973,6 +3973,8 @@ cite {
 
 #banner .content {
   padding: 12rem 0 12rem 0;
+  background-image: url("../img/alaska.jpg");
+  background-size: 100% auto;
 }
 
 #banner .content .title, #banner .content .sub_title {
@@ -4237,7 +4239,7 @@ cite {
 
 .copyright p {
   color: #ffffff;
-  font-size: 0.7rem;
+  font-size: 0.3rem;
   text-transform: uppercase;
   margin: 0;
 }
