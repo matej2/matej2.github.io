@@ -3969,6 +3969,8 @@ cite {
 
 #banner {
   position: relative;
+  background-image: url("../img/alaska.jpg");
+  background-size: 100% auto;
 }
 
 #banner .content {
