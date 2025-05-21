@@ -5,7 +5,7 @@ author: john
 categories: [ windows, cli ]
 #tags: [red, yellow]
 image: assets/images/jumbotron.jpg
-description: "r"
+description: ""
 featured: false
 hidden: true
 ---
