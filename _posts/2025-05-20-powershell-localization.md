@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Windows Powershell: Localization guide"
-author: john
+author: matej
 categories: [ windows, cli ]
 #tags: [red, yellow]
 image: assets/images/jumbotron.jpg

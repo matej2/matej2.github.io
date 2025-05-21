@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLI commands to remove Windows bloatware"
-author: john
+author: matej
 categories: [ cli, windows ]
 #tags: [red, yellow]
 image: assets/images/jumbotron.jpg
